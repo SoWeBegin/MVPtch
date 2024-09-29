@@ -3,7 +3,7 @@
     <UpdatedFiles>
         <File Name="patch.ini" CheckSum="5e931ee8" />
         <Dir Name="Bin">
-            <File Name="Microvolts.exe" CheckSum="6ec5e804" />
+            <File Name="Microvolts.exe" CheckSum="c2b5e771" />
         </Dir>
     </UpdatedFiles>
 </DeltaInfo>
